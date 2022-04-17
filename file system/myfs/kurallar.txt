@@ -1,0 +1,18 @@
+Your work will be graded on its correctness, efficiency, clarity and readability as a whole.
+You should insert comments in your source code at appropriate places without including any
+unnecessary detail.
+Late submissions are welcome, but are penalized according to the following policy:
+1 day late submission : HW will be evaluated out of 70.
+2 days late submission : HW will be evaluated out of 50.
+days late submission : HW will be evaluated out of 30.
+Later submissions : HW will NOT be evaluated.
+he homework must be written in C (not in C++ or any other language).
+Yu should not call any external programs in your code.
+Check what you upload. Do not send corrupted, wrong files or unnecessary files.
+The homework is to be prepared individually. Group work is not allowed. Your code will be
+checked for cheating.
+The design should be your original work. However, if you partially make use of a code from
+the Web, give proper reference to the related website in your comments. Uncited use is
+unacceptable.Comments will be graded.
+METU honor code is essential. Do not share your code. Any kind of involvement in cheating
+will result in a zero grade, for both providers and receivers. 
